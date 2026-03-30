@@ -1,1 +1,1 @@
-# prueba-desempe-o
+Okay, I created a program where you can register students, consult the list, delete students, and also their age, ID, name, and course (not part-time). I also created a program to create the status. I also used lists, dictionaries, and tuples. I also used functions with parameters and return values. The program runs very well. I created four options that you can choose from.
